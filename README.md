@@ -9,7 +9,7 @@ ASRock B360M pro4 + 8700 + RX580
 - VideoToolBox
 - NVRAM (Startup Disk)
 - Intel ethernet
-- All USB ports
+- All USB ports (support charging iPad)
 
 ### what does not work
 
