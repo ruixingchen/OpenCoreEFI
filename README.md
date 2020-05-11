@@ -19,4 +19,4 @@ ASRock B360M pro4 + 8700 + RX580, should also works on any Core CPU and any nati
 ### what not tested
 
 - sleep
-- FCPX (works in light tasks, no heavy tasks tested)
+- FCPX (works in light tasks, no heavy tasks tested, BruceX about 29')
