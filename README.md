@@ -1,12 +1,12 @@
-# OpenCoreEFI_ASRock_B360M_pro4
-ASRock B360M pro4 + 8700 + RX580
+# OpenCoreEFI
+
+ASRock B360M pro4 + 8700 + RX580, should also works on any Core CPU and any native supported GPUs
 
 ### what works:
-- cpu multiplier (at min 2.5G)
-- RX580 with dual 4K monitor and audio output
-- ALC892 with input and output, front and rear both works
+- cpu multiplier (at min 2.5G, native driver, no any modification)
+- RX580 with dual 4K monitor and audio output (native driver)
+- ALC892 with input and output, front and rear both works (AppleALC with layout-id 3)
 - QSV video encoding
-- VideoToolBox
 - NVRAM (Startup Disk)
 - Intel ethernet
 - All USB ports (support charging iPad)
