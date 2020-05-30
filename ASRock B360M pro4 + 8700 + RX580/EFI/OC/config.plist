@@ -597,7 +597,7 @@
 			<key>TakeoffDelay</key>
 			<integer>2000</integer>
 			<key>Timeout</key>
-			<integer>5</integer>
+			<integer>30</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -827,7 +827,7 @@
 			<string>#MemoryAllocation.efi</string>
 			<string>OpenRuntime.efi</string>
 			<string>HFSPlus.efi</string>
-			<string>OpenUsbKbDxe.efi</string>
+			<string>#OpenUsbKbDxe.efi</string>
 			<string>#OpenCanopy.efi</string>
 		</array>
 		<key>Input</key>
